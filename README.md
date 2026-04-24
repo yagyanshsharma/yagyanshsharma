@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagyanshsharma&label=Profile%20views&color=0e75b6&style=flat" alt="yagyanshsharma" /> </p>
 <img align="right"alt="coding"width="400"src=https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif>
 
-- 🔭 I’m currently working on **strengthing DS skills**
+- 🔭 I’m currently working on **strengthing my DS skills**
 
 - 🌱 I’m currently learning **Data visualisation**
 
