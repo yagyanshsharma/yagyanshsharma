@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **strengthing my DS skills**
 
-- 🌱 I’m currently learning **Data visualisation**
+- 🌱 I’m currently studying **Data visualisation**
 
 - 📫 How to reach me **yagyanshsharmaa@gmail.com**
 
