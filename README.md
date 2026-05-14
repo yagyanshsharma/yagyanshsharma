@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm YagyanshSharma</h1>
-<h3 align="center">Pursuing DataScientist</h3>
+<h3 align="center">A passionate DataScientist/analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagyanshsharma&label=Profile%20views&color=0e75b6&style=flat" alt="yagyanshsharma" /> </p>
 <img align="right"alt="coding"width="400"src=https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif>
 
-- 🔭 I’m currently working on **strengthing my DS skills**
+- 🔭 I’m currently working on **strengthing DS skills**
 
-- 🌱 I’m currently studying **Data visualisation**
+- 🌱 I’m currently learning **Structured Query Language**
 
 - 📫 How to reach me **yagyanshsharmaa@gmail.com**
 
@@ -18,6 +18,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+ <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="vfl.ru" alt="matplotlib" width="40" height="40"/> </a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagyanshsharma&show_icons=true&locale=en" alt="yagyanshsharma" /></p>
