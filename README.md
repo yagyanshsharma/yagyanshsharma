@@ -27,8 +27,8 @@
 ### 🚀 About Me
 
 * 🔭 **Currently Building:** Automated CI/CD workflows, scalable backend services, and robust data pipelines.
-* 🧠 **Deep Diving Into:** High-performance systems, low-latency API serving, and clean software architecture.
-* 💬 **Ask Me About:** Data Structures & Algorithms, modern Python development, backend engineering, and containerization.
+* 🧠 **Deep Diving Into:** Agentic AI, Multiagent Systems and llmops.
+* 💬 **Ask Me About:** Machine learning algorithms, computer vision,backend engineering, and agentic ai.
 * ⚡ **Engineering Philosophy:** *"Build it to break quietly, log loudly, and recover before anyone notices."*
 
 ---
