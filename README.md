@@ -70,10 +70,6 @@
 
 ---
 
-### 🌐 Let's Build Something Great
-
-Open to discussing **backend architecture**, **open-source engineering**, and **data systems**. Feel free to reach out directly for collaborations or technical discussions!
-
 <div align="center">
   <br />
   <a href="mailto:yagyanshsharmaa@gmail.com">
