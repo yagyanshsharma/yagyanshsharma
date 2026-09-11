@@ -26,9 +26,10 @@
 
 ### 🚀 About Me
 
-* 🔭 **Currently Building:** Automated CI/CD workflows, scalable backend services, and robust data pipelines.
-* 🧠 **Deep Diving Into:** Agentic AI, Multiagent Systems and llmops.
-* 💬 **Ask Me About:** Machine learning algorithms, computer vision,backend engineering, and agentic ai.
+* 🔭 **Currently Building:** Turning ML models into actual working APIs and reliable data pipelines* 
+* 🧠 **Upskilling in:** MLOps & DevOps (Docker, CI/CD, experiment tracking)  
+* 💬 **Ask Me About:** Data engineering, Ml fundamentals and neural networks.
+  
 * ⚡ **Engineering Philosophy:** *"Build it to break quietly, log loudly, and recover before anyone notices."*
 
 ---
